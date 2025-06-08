@@ -105,7 +105,7 @@ func createOneCourse(w http.ResponseWriter, r *http.Request){
 		return
 	
 	}	
-
+	
 	// generate a unique id and convert them into string
 
 	randSource := rand.New(rand.NewSource(time.Now().UnixNano()))

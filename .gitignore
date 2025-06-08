@@ -27,7 +27,7 @@ go.work.sum
 # env file
 .env
 
-go.mod
+
 
 # Editor/IDE
 # .idea/
