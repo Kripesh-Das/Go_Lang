@@ -58,6 +58,9 @@ This repository contains a collection of Go language examples and mini-projects,
 - **18_api/**:  
   Builds a simple REST API using Go’s standard library, covering HTTP handlers and routing.
 
+- **19_concurrency/**:  
+  Introduces concurrency in Go, demonstrating goroutines and channels for parallel execution and communication.
+
 ## Usage
 
 Each folder contains a standalone Go module. To run an example:
